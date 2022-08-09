@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Tradução: Um novo projeto Flutter.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
