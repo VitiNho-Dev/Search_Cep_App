@@ -36,7 +36,7 @@ class _CepPageState extends State<CepPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('App Cep'),
+        title: const Text('Search Cep'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(12),
